@@ -1,0 +1,175 @@
+City,Name,Category,Address,Distance (meters),Google_Rating,Reviews,Latitude,Longitude
+Delhi,Gulati Restaurant,Hyderabadi Restaurant,"6 Pandara Road Market, New Delhi, Dl, New Delhi 110003, Delhi",4885,0,0,28.6078499,77.2300673
+Delhi,Perch,Wine Bar,"71 Khan Market, New Delhi 110003, Delhi",5796,4.4,1789,28.5589805,77.16418
+Delhi,Indian Accent,Indian Restaurant,"The Lodhi, Lodhi Road, New Delhi 110003, Delhi",6689,0,0,28.5917587,77.2379033
+Delhi,Lazeez Affaire,Indian Restaurant,"6/48, Malcha Marg, Chanakyapuri Shopping Comp-Lex, New Delhi 110021, Delhi",7085,4.2,4258,28.6021801,77.1861058
+Delhi,The Big Chill Cafe,Italian Restaurant,"Hs-5 (Kailash Colony Market), New Delhi 110024, Delhi",11072,4.5,9409,28.5997717,77.2261395
+Delhi,The Big Chill,Restaurant,"Dlf Place Saket, Ground .And, 2nd Floor, District Centre, Sector 6, Pushp Vihar, Saket (Saket), New Delhi 110017, Delhi",13816,4.5,9409,28.5999121,77.2265009
+Delhi,Daryaganj,North Indian Restaurant,"New Delhi 110037, Delhi",15521,0,0,28.64609,77.243048
+Delhi,Gulati Restaurant,Hyderabadi Restaurant,"6 Pandara Road Market, New Delhi, Dl, New Delhi 110003, Delhi",4885,0,0,28.6078499,77.2300673
+Delhi,Perch,Wine Bar,"71 Khan Market, New Delhi 110003, Delhi",5796,4.4,1789,28.5589805,77.16418
+Delhi,Indian Accent,Indian Restaurant,"The Lodhi, Lodhi Road, New Delhi 110003, Delhi",6689,0,0,28.5917587,77.2379033
+Delhi,Lazeez Affaire,Indian Restaurant,"6/48, Malcha Marg, Chanakyapuri Shopping Comp-Lex, New Delhi 110021, Delhi",7085,4.2,4258,28.6021801,77.1861058
+Delhi,The Big Chill Cafe,Italian Restaurant,"Hs-5 (Kailash Colony Market), New Delhi 110024, Delhi",11072,4.5,9409,28.5997717,77.2261395
+Delhi,The Big Chill,Restaurant,"Dlf Place Saket, Ground .And, 2nd Floor, District Centre, Sector 6, Pushp Vihar, Saket (Saket), New Delhi 110017, Delhi",13816,4.5,9409,28.5999121,77.2265009
+Delhi,Daryaganj,North Indian Restaurant,"New Delhi 110037, Delhi",15521,0,0,28.64609,77.243048
+Mumbai,Jhama Sweets,Snack Place,"Dr. Choitram Gidwani Road (Chembur), Mumbai, Mahārāshtra",3256,4.1,27726,19.045492,72.8941034
+Mumbai,Cafe Madras,Indian Restaurant,"391/B, Ground Floor, Kamakshi Building, Kings Circle, Ambedkar Road, Matunga, Mumbai 400019, Mahārāshtra",5780,0,0,19.0276726,72.8550473
+Mumbai,Candies,Bakery,"Mac Ronells, 5Aa Pali Hill (St. Andrews Rd.), Mumbai 400050, Mahārāshtra",6019,0,0,19.0609825,72.8268992
+Mumbai,Mahesh Lunch Home,Indian Restaurant,"213 Juhu Tara Road (next to tulip star), Mumbai 400049, Mahārāshtra",6790,4.3,4992,19.1036656,72.826663
+Mumbai,The Bombay Canteen,Indian Restaurant,"Ground Floor, Process House, Kamala Mills (Lower Parel), Mumbai 400013, Mahārāshtra",9625,0,0,19.0035585,72.8275267
+Mumbai,McDonald's,Burger Joint,"Near Shoppers Stop (Off Amar Mahal Bridge), Mumbai 400089, Mahārāshtra",14421,4.2,9696,18.9236148,72.8319942
+Mumbai,Soam,Indian Restaurant,"Fountains Fast Food, Mumbai 400007, Mahārāshtra",14975,0,0,18.9574682,72.8089759
+Mumbai,Trishna Restaurant,Asian Restaurant,"7 Sai Baba Marg, Kala Ghoda, Fort, Mumbai 400023, Mahārāshtra",16872,0,0,18.9286576,72.8323932
+Mumbai,Pizza by The Bay,Restaurant,"Soona Mahal, 143, Ground Floor, Marine Lines, Mumbai 400020, Mahārāshtra",16664,0,0,18.9332945,72.8238813
+Mumbai,The Sassy Spoon,Diner,"Ground Floor, Express Towers (Nariman Point), Mumbai 400021, Mahārāshtra",17244,0,0,18.9283144,72.822326
+Mumbai,Kala Ghoda Cafe,Café,"10 Ropewalk Lane, Kala Ghoda, Fort, Mumbai 400001, Mahārāshtra",16883,0,0,18.928482,72.8323116
+Mumbai,Cafe Mondegar,Bar,"5A, Council Hall, Metro House, Shahid Bhagat Singh Road (Near Regal Cinema), Mumbai 400001, Mahārāshtra",17346,0,0,18.9240421,72.8321786
+Mumbai,Jhama Sweets,Snack Place,"Dr. Choitram Gidwani Road (Chembur), Mumbai, Mahārāshtra",3256,4.1,27726,19.045492,72.8941034
+Mumbai,Cafe Madras,Indian Restaurant,"391/B, Ground Floor, Kamakshi Building, Kings Circle, Ambedkar Road, Matunga, Mumbai 400019, Mahārāshtra",5780,0,0,19.0276726,72.8550473
+Mumbai,Candies,Bakery,"Mac Ronells, 5Aa Pali Hill (St. Andrews Rd.), Mumbai 400050, Mahārāshtra",6019,0,0,19.0609825,72.8268992
+Mumbai,Mahesh Lunch Home,Indian Restaurant,"213 Juhu Tara Road (next to tulip star), Mumbai 400049, Mahārāshtra",6790,4.3,4992,19.1036656,72.826663
+Mumbai,The Bombay Canteen,Indian Restaurant,"Ground Floor, Process House, Kamala Mills (Lower Parel), Mumbai 400013, Mahārāshtra",9625,0,0,19.0035585,72.8275267
+Mumbai,McDonald's,Burger Joint,"Near Shoppers Stop (Off Amar Mahal Bridge), Mumbai 400089, Mahārāshtra",14421,4.2,9696,18.9236148,72.8319942
+Mumbai,Soam,Indian Restaurant,"Fountains Fast Food, Mumbai 400007, Mahārāshtra",14975,0,0,18.9574682,72.8089759
+Mumbai,Trishna Restaurant,Asian Restaurant,"7 Sai Baba Marg, Kala Ghoda, Fort, Mumbai 400023, Mahārāshtra",16872,0,0,18.9286576,72.8323932
+Mumbai,Pizza by The Bay,Restaurant,"Soona Mahal, 143, Ground Floor, Marine Lines, Mumbai 400020, Mahārāshtra",16664,0,0,18.9332945,72.8238813
+Mumbai,The Sassy Spoon,Diner,"Ground Floor, Express Towers (Nariman Point), Mumbai 400021, Mahārāshtra",17244,0,0,18.9283144,72.822326
+Mumbai,Kala Ghoda Cafe,Café,"10 Ropewalk Lane, Kala Ghoda, Fort, Mumbai 400001, Mahārāshtra",16883,0,0,18.928482,72.8323116
+Mumbai,Cafe Mondegar,Bar,"5A, Council Hall, Metro House, Shahid Bhagat Singh Road (Near Regal Cinema), Mumbai 400001, Mahārāshtra",17346,0,0,18.9240421,72.8321786
+Bangalore,Shiro,Japanese Restaurant,"126 2nd Main Road Vittal Mallya Road (Lavelle Rd.), Bangalore 560001, Karnātaka",275,0,0,12.971852,77.5964092
+Bangalore,Smoke House Deli,Deli,"Shop No. 52 .And 53, Ground Floor, Lavelle Road (Lavelle Road), Bangalore 560001, Karnātaka",495,4.3,4953,12.9715104,77.5983259
+Bangalore,Airlines Hotel,Hotel,"4 Madras Bank Road, Adjoining St Marks Road, Shanthala Nagar, Off Lavelle Road (Madras Bank Rd), Bangalore 560001, Karnātaka",674,0,0,12.9728882,77.59991009
+Bangalore,Desserted,French Restaurant,"Vasanth (8th Main Road), Bangalore 941735, Karnātaka",2390,0,0,12.9927618,77.5892942
+Bangalore,Food Street,Indian Restaurant,"Near Sajjan Rao Park (V.V Puram), Bangalore 560004, Karnātaka",2898,0,0,12.97361177,77.53816339
+Bangalore,Bangalore Cafe,South Indian Restaurant,"Bangalore 560011, Karnātaka",3777,4.2,10605,12.987094,77.5784442
+Bangalore,Hari Super Sandwich,Restaurant,"177/A, 22nd Cross, 3rd Block (3rd block jayanagar), Bangalore 560011, Karnātaka",4498,4.2,12537,12.91004725,77.5500181
+Bangalore,Dyu Art Cafe,Café,"No 23, Khb Mig Colony, Old 5th Block, Khb Colony, Koramangala 8th Block, Koramangala (Koramangala 8th block), Bangalore 560095, Karnātaka",4639,0,0,12.9371896,77.6176798
+Bangalore,The Fatty Bao,Bar,"12th Main, Indiranagar (12th Main), Bangalore 560038, Karnātaka",5569,0,0,12.970492,77.645222
+Bangalore,Kanti Sweets,Indian Restaurant,"Chandrappa Complex (New BEL Road), Bangalore 560054, Karnātaka",8104,4.2,4801,12.9607897,77.5279567
+Bangalore,Shiro,Japanese Restaurant,"126 2nd Main Road Vittal Mallya Road (Lavelle Rd.), Bangalore 560001, Karnātaka",275,0,0,12.971852,77.5964092
+Bangalore,Smoke House Deli,Deli,"Shop No. 52 .And 53, Ground Floor, Lavelle Road (Lavelle Road), Bangalore 560001, Karnātaka",495,4.3,4953,12.9715104,77.5983259
+Bangalore,Airlines Hotel,Hotel,"4 Madras Bank Road, Adjoining St Marks Road, Shanthala Nagar, Off Lavelle Road (Madras Bank Rd), Bangalore 560001, Karnātaka",674,0,0,12.9728882,77.59991009
+Bangalore,Desserted,French Restaurant,"Vasanth (8th Main Road), Bangalore 941735, Karnātaka",2390,0,0,12.9927618,77.5892942
+Bangalore,Food Street,Indian Restaurant,"Near Sajjan Rao Park (V.V Puram), Bangalore 560004, Karnātaka",2898,0,0,12.97361177,77.53816339
+Bangalore,Bangalore Cafe,South Indian Restaurant,"Bangalore 560011, Karnātaka",3777,4.2,10605,12.987094,77.5784442
+Bangalore,Hari Super Sandwich,Restaurant,"177/A, 22nd Cross, 3rd Block (3rd block jayanagar), Bangalore 560011, Karnātaka",4498,4.2,12537,12.91004725,77.5500181
+Bangalore,Dyu Art Cafe,Café,"No 23, Khb Mig Colony, Old 5th Block, Khb Colony, Koramangala 8th Block, Koramangala (Koramangala 8th block), Bangalore 560095, Karnātaka",4639,0,0,12.9371896,77.6176798
+Bangalore,The Fatty Bao,Bar,"12th Main, Indiranagar (12th Main), Bangalore 560038, Karnātaka",5569,0,0,12.970492,77.645222
+Bangalore,Kanti Sweets,Indian Restaurant,"Chandrappa Complex (New BEL Road), Bangalore 560054, Karnātaka",8104,4.2,4801,12.9607897,77.5279567
+Hyderabad,N Asian,Bistro,"8 - 2 - 293/82 A 1200 Road No 4 (Jubilee Hills), Hyderabad 500034, Andhra Pradesh",7011,0,0,17.4216154,78.4556772
+Hyderabad,Karachi Bakery,Bakery,"Madhapur, Hyderabad 941735, Uttar Pradesh",10110,4.4,14277,17.4415728,78.3768334
+Hyderabad,Shah Ghouse,Indian Restaurant,"Syed Ali Chabutra, Shah Ali Banda, Tolichowk, Mehdipatnam, Hyderabad 941735, Telangana",9696,3.8,47751,17.4266793,78.3764491
+Hyderabad,13 Dhaba,Restaurant,"1-72/3A, Andhra Bank Lane (Gachibowli), Hyderabad 500032, Telangana",11301,0,0,17.4376619,78.3654841
+Hyderabad,Absolute Barbecues,BBQ Joint,"Aparupa Silpi (Indira Nagar), Hyderabad 500032, Telangana",12374,4.1,34862,17.4383572,78.3977922
+Hyderabad,Paradise Restaurant,Indian Restaurant,"Kukatpally Housing Board (Towards Ushamullapudi Hospital Road.), 500027, Andhra Pradesh",13349,4,91889,17.3989789,78.5606257
+Hyderabad,N Asian,Bistro,"8 - 2 - 293/82 A 1200 Road No 4 (Jubilee Hills), Hyderabad 500034, Andhra Pradesh",7011,0,0,17.4216154,78.4556772
+Hyderabad,Karachi Bakery,Bakery,"Madhapur, Hyderabad 941735, Uttar Pradesh",10110,4.4,14277,17.4415728,78.3768334
+Hyderabad,Shah Ghouse,Indian Restaurant,"Syed Ali Chabutra, Shah Ali Banda, Tolichowk, Mehdipatnam, Hyderabad 941735, Telangana",9696,3.8,47751,17.4266793,78.3764491
+Hyderabad,13 Dhaba,Restaurant,"1-72/3A, Andhra Bank Lane (Gachibowli), Hyderabad 500032, Telangana",11301,0,0,17.4376619,78.3654841
+Hyderabad,Absolute Barbecues,BBQ Joint,"Aparupa Silpi (Indira Nagar), Hyderabad 500032, Telangana",12374,4.1,34862,17.4383572,78.3977922
+Hyderabad,Paradise Restaurant,Indian Restaurant,"Kukatpally Housing Board (Towards Ushamullapudi Hospital Road.), 500027, Andhra Pradesh",13349,4,91889,17.3989789,78.5606257
+Chennai,Ratna Cafe,Indian Restaurant,"941735, Tamil Nadu",3267,4,16050,13.0827001,80.2748964
+Chennai,Kabab Corner,Restaurant,"No 12/1, Greams Road, Thousand Light, Chennai 600006, Tamil Nadu",4024,0,0,13.0601673,80.2546158
+Chennai,Basil With A Twist,Restaurant,"58A, Habibullah Road, T, Chennai 600017, Tamil Nadu",5782,0,0,13.0496674,80.24228
+Chennai,Murugan Idly Shop,South Indian Restaurant,"Shanthi Colony (anna nagar), Chennai 600040, Tamil Nadu",6969,4,13799,12.9956088,80.2702331
+Chennai,Subway,Deli,"Ac 112, Ground Floor, Ac Block, 4th Avenue, Shanti Colony (Anna Nagar), Chennai 600040, Tamil Nadu",7335,4.3,2265,13.0680784,80.27180001
+Chennai,Barbeque Nation,Indian Restaurant,"Hotel Bhimaas (Vadapalani), Chennai 600026, Tamil Nadu",8135,4,10934,12.9437934,80.2380696
+Chennai,Ratna Cafe,Indian Restaurant,"941735, Tamil Nadu",3267,4,16050,13.0827001,80.2748964
+Chennai,Kabab Corner,Restaurant,"No 12/1, Greams Road, Thousand Light, Chennai 600006, Tamil Nadu",4024,0,0,13.0601673,80.2546158
+Chennai,Basil With A Twist,Restaurant,"58A, Habibullah Road, T, Chennai 600017, Tamil Nadu",5782,0,0,13.0496674,80.24228
+Chennai,Murugan Idly Shop,South Indian Restaurant,"Shanthi Colony (anna nagar), Chennai 600040, Tamil Nadu",6969,4,13799,12.9956088,80.2702331
+Chennai,Subway,Deli,"Ac 112, Ground Floor, Ac Block, 4th Avenue, Shanti Colony (Anna Nagar), Chennai 600040, Tamil Nadu",7335,4.3,2265,13.0680784,80.27180001
+Chennai,Barbeque Nation,Indian Restaurant,"Hotel Bhimaas (Vadapalani), Chennai 600026, Tamil Nadu",8135,4,10934,12.9437934,80.2380696
+Kolkata,Peter Cat,Indian Restaurant,"18A, Park Street, Park Street Area, Kolkata 700071, West Bengal",1568,0,0,22.5524479,88.3526151
+Kolkata,Balwant Singh's Eating House,Dhaba,"10 B, Harish Mukherjee Road, Jatindas Park, Kolkata 700025, West Bengal",3375,0,0,22.5377827,88.344129
+Kolkata,Jai Hind Dhaba,Indian Restaurant,"41/1A, Sarat Bose Road, Allahabad Bank, Bhowanipur, Kolkata 700020, West Bengal",3438,4.2,16338,22.5331803,88.3531588
+Kolkata,Balaram Mullick and Radharaman Mullick,Bakery,"2 Paddapukur Road, Kolkata 700020, West Bengal",3667,4.3,9027,22.5518208,88.3533682
+Kolkata,6 Ballygunge Place,Bengali Restaurant,"6 Bondel Road, Ballygunge, Kolkata 700019, West Bengal",3923,0,0,22.5277993,88.3686373
+Kolkata,Peter Cat,Indian Restaurant,"18A, Park Street, Park Street Area, Kolkata 700071, West Bengal",1568,0,0,22.5524479,88.3526151
+Kolkata,Balwant Singh's Eating House,Dhaba,"10 B, Harish Mukherjee Road, Jatindas Park, Kolkata 700025, West Bengal",3375,0,0,22.5377827,88.344129
+Kolkata,Jai Hind Dhaba,Indian Restaurant,"41/1A, Sarat Bose Road, Allahabad Bank, Bhowanipur, Kolkata 700020, West Bengal",3438,4.2,16338,22.5331803,88.3531588
+Kolkata,Balaram Mullick and Radharaman Mullick,Bakery,"2 Paddapukur Road, Kolkata 700020, West Bengal",3667,4.3,9027,22.5518208,88.3533682
+Kolkata,6 Ballygunge Place,Bengali Restaurant,"6 Bondel Road, Ballygunge, Kolkata 700019, West Bengal",3923,0,0,22.5277993,88.3686373
+Pune,Mad Over Donuts,Bakery,"Near Sambhaji Park, Jm Road, Pune 411004, Mahārāshtra",1057,4.1,1303,18.5391312,73.8990439
+Pune,Cafe Goodluck,Café,"759/75, Goodluck (Corner of FC Road and Bhandarkar Road), Pune 411004, Mahārāshtra",1480,0,0,18.5523169,73.7938289
+Pune,Vaishali | वैशाली,South Indian Restaurant,"P-1218/1, Fergusson College Road (Fergusson College Rd), Pune 411004, Mahārāshtra",1489,0,0,18.520848,73.8412179
+Pune,Le Plaisir,Bistro,"Shop No. 4B, Lane 6 Intersection, Off Bhandarkar Road, Deccan Gymkhana (Opp. Kelkar Eye Hospital, Prabhat Road), Pune 411004, Mahārāshtra",1867,0,0,18.5143251,73.8386328
+Pune,Kayani Bakery,Bakery,"6 Dr Coyage Road, East Street (Gurudwara Road), Pune 411040, Mahārāshtra",2636,0,0,18.514857,73.8800072
+Pune,Barometer,Café,"12/7 Chintaman Pride, City Pride Road, Kothrud, Pune 411038, Mahārāshtra",4449,0,0,18.4988618,73.8192031
+Pune,Falahaar,Fast Food Restaurant,"Shop No. 24, Gagan Galaxy, Gangadham, Kondhwa Road, Bibvewadi, Pune 411037, Mahārāshtra",4846,4.2,7311,18.5520446,73.8041016
+Pune,Malaka Spice,Korean Restaurant,"Vrindavan Apartments, Off. North Main Road, Koregaon Park (Between North Main Road & Lane 8), Pune 411001, Mahārāshtra",4889,0,0,18.5595213,73.7906052
+Pune,Naughty Angel Cafe,Restaurant,"12 Princeton Flair, Lane No 8, Meera Nagar Society (Koregaon Park), Pune 411001, Mahārāshtra",5036,0,0,18.5364616,73.8995909
+Pune,Mad Over Donuts,Bakery,"Near Sambhaji Park, Jm Road, Pune 411004, Mahārāshtra",1057,4.1,1303,18.5391312,73.8990439
+Pune,Cafe Goodluck,Café,"759/75, Goodluck (Corner of FC Road and Bhandarkar Road), Pune 411004, Mahārāshtra",1480,0,0,18.5523169,73.7938289
+Pune,Vaishali | वैशाली,South Indian Restaurant,"P-1218/1, Fergusson College Road (Fergusson College Rd), Pune 411004, Mahārāshtra",1489,0,0,18.520848,73.8412179
+Pune,Le Plaisir,Bistro,"Shop No. 4B, Lane 6 Intersection, Off Bhandarkar Road, Deccan Gymkhana (Opp. Kelkar Eye Hospital, Prabhat Road), Pune 411004, Mahārāshtra",1867,0,0,18.5143251,73.8386328
+Pune,Kayani Bakery,Bakery,"6 Dr Coyage Road, East Street (Gurudwara Road), Pune 411040, Mahārāshtra",2636,0,0,18.514857,73.8800072
+Pune,Barometer,Café,"12/7 Chintaman Pride, City Pride Road, Kothrud, Pune 411038, Mahārāshtra",4449,0,0,18.4988618,73.8192031
+Pune,Falahaar,Fast Food Restaurant,"Shop No. 24, Gagan Galaxy, Gangadham, Kondhwa Road, Bibvewadi, Pune 411037, Mahārāshtra",4846,4.2,7311,18.5520446,73.8041016
+Pune,Malaka Spice,Korean Restaurant,"Vrindavan Apartments, Off. North Main Road, Koregaon Park (Between North Main Road & Lane 8), Pune 411001, Mahārāshtra",4889,0,0,18.5595213,73.7906052
+Pune,Naughty Angel Cafe,Restaurant,"12 Princeton Flair, Lane No 8, Meera Nagar Society (Koregaon Park), Pune 411001, Mahārāshtra",5036,0,0,18.5364616,73.8995909
+Ahmedabad,Swati Snacks,Vegan and Vegetarian Restaurant,"Near Thakorbhai Hall, Law Garden (Panchvati Road), Ahmedabad 380006, Gujarāt",2886,4.4,9770,23.0244466,72.5589826
+Ahmedabad,Sankalp,Indian Restaurant,"Ahmedabad 941735, Gujarāt",3719,0,0,23.0260307,72.50319925
+Ahmedabad,Cafe Upper Crust,Bakery,"6/7 Arohi Complex, Vijay Cross Road, Navrangpura (Vijay cross roads), Ahmedabad 380009, Gujarāt",4291,0,0,23.04108435,72.52692955
+Ahmedabad,Jasuben Pizza,Bakery,"Nr. Cn Vidyala (Ambawadi Cross roads), Ahmedabad 941735, Gujarāt",3451,0,0,23.0206812,72.5540845
+Ahmedabad,Cafe Upper Crust,Bakery,"Vastrapur Lake, Ahmedabad 941735, Gujarāt",6344,0,0,23.04108435,72.52692955
+Ahmedabad,Swati Snacks,Vegan and Vegetarian Restaurant,"Near Thakorbhai Hall, Law Garden (Panchvati Road), Ahmedabad 380006, Gujarāt",2886,4.4,9770,23.0244466,72.5589826
+Ahmedabad,Sankalp,Indian Restaurant,"Ahmedabad 941735, Gujarāt",3719,0,0,23.0260307,72.50319925
+Ahmedabad,Cafe Upper Crust,Bakery,"6/7 Arohi Complex, Vijay Cross Road, Navrangpura (Vijay cross roads), Ahmedabad 380009, Gujarāt",4291,0,0,23.04108435,72.52692955
+Ahmedabad,Jasuben Pizza,Bakery,"Nr. Cn Vidyala (Ambawadi Cross roads), Ahmedabad 941735, Gujarāt",3451,0,0,23.0206812,72.5540845
+Ahmedabad,Cafe Upper Crust,Bakery,"Vastrapur Lake, Ahmedabad 941735, Gujarāt",6344,0,0,23.04108435,72.52692955
+Jaipur,Spice Court,Rajasthani Restaurant,"Achrol House, Jacob Rad, Civil Lines, Jacob Road (Jacob Rd), Jaipur 302006, Rājasthān",985,0,0,26.9108905,75.7889678
+Jaipur,Hotel Kalyan,Hotel,"59 Hathroi Fort, Jaipur 302001, Rājasthān",893,0,0,26.9161385,75.7959052
+Jaipur,Curious Life Coffee Roasters,Restaurant,"P 25, Yudhisthir Marg (C Scheme), Jaipur 302001, Rājasthān",1956,0,0,26.9042168,75.7969605
+Jaipur,Brown Sugar,Bakery,"G1 Axis Mall, Bhagwan Dass Road, Jaipur 302001, Rājasthān",2175,0,0,26.9024065,75.7865482
+Jaipur,Baradari,Dining and Drinking,"City Palace, 926212",3395,0,0,26.98535515,75.85009923
+Jaipur,Saffron,Indian Restaurant,"Jaipur Marriott Hotel, Ashram Marg, Jaipur 302018, Rājasthān",8696,0,0,26.8766515,75.7179021
+Jaipur,Spice Court,Rajasthani Restaurant,"Achrol House, Jacob Rad, Civil Lines, Jacob Road (Jacob Rd), Jaipur 302006, Rājasthān",985,0,0,26.9108905,75.7889678
+Jaipur,Hotel Kalyan,Hotel,"59 Hathroi Fort, Jaipur 302001, Rājasthān",893,0,0,26.9161385,75.7959052
+Jaipur,Curious Life Coffee Roasters,Restaurant,"P 25, Yudhisthir Marg (C Scheme), Jaipur 302001, Rājasthān",1956,0,0,26.9042168,75.7969605
+Jaipur,Brown Sugar,Bakery,"G1 Axis Mall, Bhagwan Dass Road, Jaipur 302001, Rājasthān",2175,0,0,26.9024065,75.7865482
+Jaipur,Baradari,Dining and Drinking,"City Palace, 926212",3395,0,0,26.98535515,75.85009923
+Jaipur,Saffron,Indian Restaurant,"Jaipur Marriott Hotel, Ashram Marg, Jaipur 302018, Rājasthān",8696,0,0,26.8766515,75.7179021
+Lucknow,Tunday Kababi,Indian Restaurant,"Naaz Cinema Road, Aminabad (Naaz Cinema Rd), Lucknow 226018, Uttar Pradesh",1089,0,0,26.8617911,80.9069882
+Lucknow,Dastarkhwan,Indian Restaurant,"Opposite Tulsi Theatre (Mahatma Gandhi Marg), Lucknow 226010, Uttar Pradesh",2023,0,0,26.8580912,80.9961892
+Lucknow,Mr Brown,Bakery,"1/55 G, Vinit Khand, Gomti, Lucknow 226010, Uttar Pradesh",8547,0,0,26.8574599,80.9754998
+Lucknow,Tunday Kababi,Indian Restaurant,"Naaz Cinema Road, Aminabad (Naaz Cinema Rd), Lucknow 226018, Uttar Pradesh",1089,0,0,26.8617911,80.9069882
+Lucknow,Dastarkhwan,Indian Restaurant,"Opposite Tulsi Theatre (Mahatma Gandhi Marg), Lucknow 226010, Uttar Pradesh",2023,0,0,26.8580912,80.9961892
+Lucknow,Mr Brown,Bakery,"1/55 G, Vinit Khand, Gomti, Lucknow 226010, Uttar Pradesh",8547,0,0,26.8574599,80.9754998
+Indore,Mr. Beans,Restaurant,"100 Saket Nagar, Indore 452018, Madhya Pradesh",6551,0,0,22.7232375,75.896927
+Indore,Mediterra,Mediterranean Restaurant,"Roof-Top, Hotel Sayaji (Vijay Nagar), Indore 452010, Madhya Pradesh",6830,0,0,22.7515742,75.8890973
+Indore,Chopstick City,Asian Restaurant,"Sayaji Indore, H/1, Scheme No 54, Vijay (Vijay Nagar), Indore 452011, Madhya Pradesh",6867,0,0,22.7512405,75.8893495
+Indore,Subway,Deli,"299 299/ A, 304 Malhar Mega Mall (A.B. Road), Indore 452001, Madhya Pradesh",6907,0,0,22.7256523,75.893092
+Indore,Mr. Beans,Restaurant,"100 Saket Nagar, Indore 452018, Madhya Pradesh",6551,0,0,22.7232375,75.896927
+Indore,Mediterra,Mediterranean Restaurant,"Roof-Top, Hotel Sayaji (Vijay Nagar), Indore 452010, Madhya Pradesh",6830,0,0,22.7515742,75.8890973
+Indore,Chopstick City,Asian Restaurant,"Sayaji Indore, H/1, Scheme No 54, Vijay (Vijay Nagar), Indore 452011, Madhya Pradesh",6867,0,0,22.7512405,75.8893495
+Indore,Subway,Deli,"299 299/ A, 304 Malhar Mega Mall (A.B. Road), Indore 452001, Madhya Pradesh",6907,0,0,22.7256523,75.893092
+Bhopal,Amer Bakery Hut,Restaurant,"10 Bittan Market, Bhopal 216547, Madhya Pradesh",3450,0,0,23.2174899,77.4276323
+Bhopal,Milan Restaurant,Asian Restaurant,"189 Zone 1 (M.P.Nagar), Bhopal 462011, Madhya Pradesh",3967,0,0,23.2325897,77.4332685
+Bhopal,Amer Bakery Hut,Bakery,"Anmol Tower (Arera Colony), Bhopal 462016, Madhya Pradesh",4890,0,0,23.2174899,77.4276323
+Bhopal,Sagar Gaire,Fast Food Restaurant,"Shop No 72, Arera Colony, 10 No Stop (Link Rd. No. 2), Bhopal 462011, Madhya Pradesh",4720,0,0,23.2232671,77.4336772
+Bhopal,Amer Bakery Hut,Restaurant,"10 Bittan Market, Bhopal 216547, Madhya Pradesh",3450,0,0,23.2174899,77.4276323
+Bhopal,Milan Restaurant,Asian Restaurant,"189 Zone 1 (M.P.Nagar), Bhopal 462011, Madhya Pradesh",3967,0,0,23.2325897,77.4332685
+Bhopal,Amer Bakery Hut,Bakery,"Anmol Tower (Arera Colony), Bhopal 462016, Madhya Pradesh",4890,0,0,23.2174899,77.4276323
+Bhopal,Sagar Gaire,Fast Food Restaurant,"Shop No 72, Arera Colony, 10 No Stop (Link Rd. No. 2), Bhopal 462011, Madhya Pradesh",4720,0,0,23.2232671,77.4336772
+Surat,Subway,Deli,"Ghod Dod Road (Opp. St. Xavier's School), Sūrat 395007, Gujarāt",3155,0,0,21.1433876,72.7947489
+Surat,Wok On Fire,Chinese Restaurant,"Adajan Pal Road, Sūrat 793967, Gujarāt",3915,0,0,21.1711832,72.7893335
+Surat,Wok On Fire,Chinese Restaurant,"G-2, Golden Square, Nr, Sargam Shopping Centre, Parle Point (Parle Point), Sūrat 395007, Gujarāt",5053,0,0,21.1711832,72.7893335
+Surat,Enjoy Restaurant,Asian Restaurant,"Ground Flr, Rajhans Cinema, Surat-Dumas Road, Sūrat 395007, Gujarāt",6971,0,0,10.0823391,99.8242533
+Surat,Subway,Deli,"Ghod Dod Road (Opp. St. Xavier's School), Sūrat 395007, Gujarāt",3155,0,0,21.1433876,72.7947489
+Surat,Wok On Fire,Chinese Restaurant,"Adajan Pal Road, Sūrat 793967, Gujarāt",3915,0,0,21.1711832,72.7893335
+Surat,Wok On Fire,Chinese Restaurant,"G-2, Golden Square, Nr, Sargam Shopping Centre, Parle Point (Parle Point), Sūrat 395007, Gujarāt",5053,0,0,21.1711832,72.7893335
+Surat,Enjoy Restaurant,Asian Restaurant,"Ground Flr, Rajhans Cinema, Surat-Dumas Road, Sūrat 395007, Gujarāt",6971,0,0,10.0823391,99.8242533
+Nagpur,Barbeque,BBQ Joint,"Sadar (Mount road), Nagpur 931735, Mahārāshtra",1465,0,0,21.1775524,79.0471248
+Nagpur,Haldiram's,Indian Sweet Shop,"Anjuman Complex, Haldiram, Nagpur 440001, Maharashtra",1998,0,0,21.1418145,79.082042
+Nagpur,Haldiram,Indian Restaurant,"Near Sudama Theatre (Dharampeth), Nagpur 941735, Mahārāshtra",2570,0,0,21.2665445,79.0877337
+Nagpur,Barbeque,BBQ Joint,"Sadar (Mount road), Nagpur 931735, Mahārāshtra",1465,0,0,21.1775524,79.0471248
+Nagpur,Haldiram's,Indian Sweet Shop,"Anjuman Complex, Haldiram, Nagpur 440001, Maharashtra",1998,0,0,21.1418145,79.082042
+Nagpur,Haldiram,Indian Restaurant,"Near Sudama Theatre (Dharampeth), Nagpur 941735, Mahārāshtra",2570,0,0,21.2665445,79.0877337
+Chandigarh,Ghazal Restaurant,Indian Restaurant,"189-91, Sector-17, Chandigarh 941735, Chandigarh",571,0,0,30.7391273,76.784807
+Chandigarh,Backpackers Cafe,Coffee Shop,"Scf 16, Inner Market, Sector 9D, Chandigarh 160009, Chandigarh",1352,0,0,30.7048722,76.8008267
+Chandigarh,Barbeque Nation,BBQ Joint,"39 Madhya Marg Sector 26 (sector 26), Chandigarh 160019, Punjab",1993,0,0,30.7256707,76.8052566
+Chandigarh,Ghazal Restaurant,Indian Restaurant,"189-91, Sector-17, Chandigarh 941735, Chandigarh",571,0,0,30.7391273,76.784807
+Chandigarh,Backpackers Cafe,Coffee Shop,"Scf 16, Inner Market, Sector 9D, Chandigarh 160009, Chandigarh",1352,0,0,30.7048722,76.8008267
+Chandigarh,Barbeque Nation,BBQ Joint,"39 Madhya Marg Sector 26 (sector 26), Chandigarh 160019, Punjab",1993,0,0,30.7256707,76.8052566
