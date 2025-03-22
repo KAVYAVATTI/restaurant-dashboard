@@ -20,9 +20,4 @@ An interactive dashboard to explore and analyze restaurant data across cities wi
 
 ---
 
-## 💻 Run Locally
 
-1. Clone the repo:
-```bash
-git clone https://github.com/KAVYAVATTI/restaurant-dashboard.git
-cd restaurant-dashboard
