@@ -14,9 +14,10 @@ An interactive dashboard to explore and analyze restaurant data across cities wi
 
 ---
 
-## 📸 Preview
+## 📽️ Demo
 
-![Dashboard Screenshot](preview.png)
+![Dashboard Preview](preview.gif)
+
 
 ---
 
